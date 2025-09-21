@@ -1,5 +1,7 @@
 # Insurance Claims Dashboard (Power BI)
 
+### Dashboard link: https://app.powerbi.com/groups/6d3dc93a-cd0e-4655-b070-6dd6073d299f/reports/fc652aa4-f095-4513-847e-35ecba40c22a/ReportSection?experience=power-bi
+
 ##  Overview  
 This project analyses insurance policy and claims data to uncover insights into **premium distribution, claim settlements, customer demographics, and policy performance**. The dashboard enables stakeholders to monitor active/inactive policies, evaluate claim statuses, and track financials across different policy types.  
 
@@ -38,6 +40,8 @@ This project analyses insurance policy and claims data to uncover insights into 
 Some of the calculated measures created in Power BI:  
 ```DAX
 Total Premium Amount = SUM(Policies[PremiumAmount])
+
+
 Total Coverage Amount = SUM(Policies[CoverageAmount])
 Total Claim Amount   = SUM(Policies[ClaimAmount])
 
