@@ -1,6 +1,6 @@
 # Insurance Claims Dashboard (Power BI)
 
-### Dashboard link: https://app.powerbi.com/groups/6d3dc93a-cd0e-4655-b070-6dd6073d299f/reports/fc652aa4-f095-4513-847e-35ecba40c22a/ReportSection?experience=power-bi
+### Dashboard link: https://app.powerbi.com/groups/6d3dc93a-cd0e-4655-b070-6dd6073d299f/reports/6a096a8e-570b-4659-96cb-f66ff6b4bcd5/ReportSection?experience=power-bi
 
 ##  Overview  
 This project analyses insurance policy and claims data to uncover insights into **premium distribution, claim settlements, customer demographics, and policy performance**. The dashboard enables stakeholders to monitor active/inactive policies, evaluate claim statuses, and track financials across different policy types.  
